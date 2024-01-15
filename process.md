@@ -8,6 +8,6 @@
 * Scalable Unit Economics. (Documentation)
 
 # Current APIs being tested
-* Google: PALM-E, Gemini
+* Google: PALM-2, Gemini
 * OpenAI: GPT-3.5 Turbo, GPT-4
 * Amazon Bedrock: Titan Model
